@@ -1,0 +1,17 @@
+{
+  "name": "flow-shallow-equal-without",
+  "version": "0.1.0",
+  "description": "Flow declarations for shallow-equal-without",
+  "main": "index.js",
+  "files": ["flow"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/flow-shallow-equal-without.git"
+  },
+  "author": "Liang <liang@maichong.it> (https://github.com/liangxingchen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/flow-shallow-equal-without/issues"
+  },
+  "homepage": "https://github.com/maichong/flow-shallow-equal-without#readme"
+}
